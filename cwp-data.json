@@ -1,0 +1,42 @@
+[
+  {
+    "qc":"QC 1",
+    "order": 1,
+    "mode": "DS",
+    "bay": "02",
+    "position": "Deck",
+    "containerCount": 12
+  },
+  {
+    "qc":"QC 1",
+    "order": 2,
+    "mode": "LD",
+    "bay": "02",
+    "position": "Deck",
+    "containerCount": 15
+  },
+  {
+    "qc":"QC 2",
+    "order": 1,
+    "mode": "DS",
+    "bay": "10",
+    "position": "Hold",
+    "containerCount": 16
+  },
+  {
+    "qc":"QC 2",
+    "order": 2,
+    "mode": "DS",
+    "bay": "18",
+    "position": "Hold",
+    "containerCount": 22
+  },
+  {
+    "qc":"QC 2",
+    "order": 3,
+    "mode": "DS",
+    "bay": "30",
+    "position": "Deck",
+    "containerCount": 32
+  }
+]
